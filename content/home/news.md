@@ -13,8 +13,6 @@ subtitle = ""
 weight = 40
 
 +++
-**Swaminarayan Bhagawan ni Jay**
-
 **April 2020:** Our [paper](https://www.spiedigitallibrary.org/journals/Journal-of-MicroNanolithography-MEMS-and-MOEMS/volume-19/issue-2/024801/Deep-learning-based-detection-classification-and-localization-of-defects-in/10.1117/1.JMM.19.2.024801.short) on deep learning-based defect detection, classification, and localization in semi-conductor processes with [IBM AI Hardware Research](https://www.research.ibm.com/artificial-intelligence/ai-hardware-center/) has been accepted for publication in JM3.
 
 **Mar 2020:** New pre-print on [GAN-based priors for quantifying uncertainty](https://arxiv.org/abs/2003.12597).
