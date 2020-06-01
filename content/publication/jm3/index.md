@@ -30,7 +30,7 @@ abstract_short = "We develop a deep learning-based unified framework for defect 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

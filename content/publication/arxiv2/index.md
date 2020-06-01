@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "arXiv"
-publication_short = "CMAME"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Bayesian inference is used extensively to quantify the uncertainty in an inferred field given the measurement of a related field when the two are linked by a mathematical model. Despite its many applications, Bayesian inference faces challenges when inferring fields that have discrete representations of large dimension, and/or have prior distributions that are difficult to characterize mathematically. In this work we demonstrate how the approximate distribution learned by a deep generative adversarial network (GAN) may be used as a prior in a Bayesian update to address both these challenges. We demonstrate the efficacy of this approach on two distinct, and remarkably broad, classes of problems. The first class leads to supervised learning algorithms for image classification with superior out of distribution detection and accuracy, and for image inpainting with built-in variance estimation. The second class leads to unsupervised learning algorithms for image denoising and for solving physics-driven inverse problems."
@@ -30,7 +30,7 @@ abstract_short = "Learning-based framework to bypass the solution of inverse pro
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

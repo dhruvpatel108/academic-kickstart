@@ -61,7 +61,7 @@ url_source = ""
 math = true
 
 # Does this page require source code highlighting? (true/false)
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
