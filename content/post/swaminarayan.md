@@ -1,8 +1,10 @@
----
-title: "Shree Swaminarayano Vijaytetaram"
-date: 2020-05-08T23:11:21-07:00
-draft: true
----
++++
+title = "Shree Swaminarayano Vijaytetaram!"
+Date = "2019-07-12"
+Draft=false
++++
+
+
 Shri Swaminarayan Bhagawani ni Jay!  
 Shri Harikrishna Maharaj ni Jay!  
 Shri Ghanshyam Maharaj ni Jay!  
