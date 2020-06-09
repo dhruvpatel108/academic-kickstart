@@ -1,9 +1,9 @@
 +++
-title = "How AI can be used for quick and accurate non=invasive detection of breast cancer"
+title = "How deep learning combined with bio-mechanics can lead to accurate and non-invasive diagnosis of breast cancer?"
 Date = "2019-07-12"
 Draft=false
 +++
-Summary: Breast ultrasound elastography is a non-invasive technique used by radiologists to help detect and diagnose cancer and other diseases by evaluating a lesion's stiffness in a non-invasive way. Researchers identified the critical role machine learning can play in making this technique more efficient and accurate in diagnosis.
+> **Summary**: Breast ultrasound elastography is a non-invasive technique used by radiologists to help detect and diagnose cancer and other diseases by evaluating a lesion's stiffness in a non-invasive way. Researchers identified the critical role machine learning can play in making this technique more efficient and accurate in diagnosis.
 
 
 Breast cancer is the leading cause of cancer-related death among women. It is also difficult to diagnose. Nearly one in 10 cancers is misdiagnosed as not cancerous, meaning that a patient can lose critical treatment time. On the other hand, the more mammograms a woman has, the more likely it is she will see a false positive result. After 10 years of annual mammograms, roughly two out of three patients who do not have cancer will be told that they do and be subjected to an invasive intervention, most likely a biopsy.

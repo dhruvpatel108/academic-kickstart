@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: PhD. candidate
- in Computational Mechanics
+ Computational Mechanics
 
 # Organizations/Affiliations
 organizations:
@@ -21,19 +21,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include physics-guided data-driven modeling, inverse problems, deep learning, and uncertainty quantification.
 
-interests:
-- Physics-guided Data-driven Modeling
-- Deep Learning
-- Inverse Problems
-
-
 
 education:
   courses:
   - course: PhD in Mechanical Engineering
     institution: University of Southern California
     #year: 2012
-  - course: MTech in Applied Mechanicss
+  - course: MTech in Applied Mechanics
     institution: Indian Institute of Technology, Delhi
     year: 2016
   - course: BE in Mechanical Engineering 
@@ -77,7 +71,7 @@ email: "abc@usc.edu"
 
 ---
 
-I am a PhD. candidate in Aerospace and Mechanical Engineering department at USC  advised by [Prof. Assad Oberai](https://viterbi.usc.edu/directory/faculty/Oberai/Assad).
+I am a PhD. student in Aerospace and Mechanical Engineering department at USC fortunate to be advised by [Prof. Assad Oberai](https://viterbi.usc.edu/directory/faculty/Oberai/Assad).
 
 
 My research interest lies at the intersection of physics-based and data-driven modeling, deep generative modeling, inverse problems, and uncertainty quantification with applications to computational science and engineering, computer vision, and medical imaging. I am particularly interested in the question of how to optimally combine physics-guided models with modern machine learning algorithms to develop more data efficient and accurate hybrid models. 
