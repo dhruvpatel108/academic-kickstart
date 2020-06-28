@@ -19,7 +19,7 @@ weight = 40
 
 **Mar 2020:** Giving an invited talk at [Climate Modeling Aliance, Caltech](https://clima.caltech.edu/) on physics-based and data-driven deep generative modeling for efficient inference.
 
-**Feb 2020:** Giving an invited talk as part of mechanics seminar series at [Viterbi school of engineering, USC](https://viterbischool.usc.edu/) on Bayesian inferece using generative modeling. 
+**Feb 2020:** Giving a talk as part of mechanics seminar series at [Viterbi school of engineering, USC](https://viterbischool.usc.edu/) on Bayesian inferece using generative modeling. 
 
 **Dec 2019:** Will present a poster at [Deep inverse workshop](https://deep-inverse.org/) at NeurIPS on [GAN-priors for Bayesian inferece](https://openreview.net/pdf?id=HJlL2Q2qLS).
 
